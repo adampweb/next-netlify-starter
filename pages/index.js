@@ -14,7 +14,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p className="description">
-            <Link href={"/about-us"}>About us</Link>
+            <Link href={"/about"}>About us</Link>
         </p>
       </main>
 
